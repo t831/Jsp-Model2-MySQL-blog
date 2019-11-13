@@ -65,3 +65,6 @@ CREATE TABLE reply(
 
 #### 4. 부트스트랩 커스터마이징 HTML파일
 WebContent/css/**
+
+#### 5. 실행 영상
+https://blog.naver.com/bigbang2025/221706534363
